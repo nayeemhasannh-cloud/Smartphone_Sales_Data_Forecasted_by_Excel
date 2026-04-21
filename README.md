@@ -1,9 +1,12 @@
 Power Trend Forecasting of Nissan Monthly Sales
+
 Overview
+
 This project uses a power trend model to forecast Nissan’s monthly sales (Dec 2023 – Nov 2025). The goal is to improve supply chain decisions in production, inventory, and procurement.
 The model applies log transformation and linear regression to capture the sales trend.
 
 Business Objective
+
 Improve decision-making in:
 •	Production planning
 •	Inventory management
@@ -11,17 +14,20 @@ Improve decision-making in:
 •	Demand forecasting
 
 Method
+
 •	Log transformation of sales data
 •	Power trend model: ( Y = aX^b )
 •	Linear regression for estimation
 •	Accuracy measured using MAPE
 
 Key Result
+
 •	MAPE: 2.48%
 •	Forecast error is very low (around 2.5% deviation)
 •	Model is reliable for operational planning
 
 Data Insight
+
 •	Monthly sales: ~225,000 to ~365,000 units
 •	Production: ~220,000 to ~290,000 units
 •	Sales show mild fluctuation with a slight downward trend in later months
