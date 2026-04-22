@@ -1,7 +1,7 @@
-Power Trend Forecasting of Nissan Monthly Sales
+Power Trend Forecasting of Smartphone Monthly Sales
 
 Overview
-This project uses a power trend model to forecast Nissan’s monthly sales (Dec 2023 – Nov 2025). The goal is to improve supply chain decisions in production, inventory, and procurement.
+This project uses a power trend model to forecast Smartphone’s monthly sales (Dec 2023 – Nov 2025). The goal is to improve supply chain decisions in production, inventory, and procurement.
 The model applies log transformation and linear regression to capture the sales trend.
 
 Business Objective
